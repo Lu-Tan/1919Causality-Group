@@ -19,7 +19,7 @@
 
     Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.
 
-    IJCV 2022 [[paper]](https://arxiv.org/abs/2203.05557) [[code]](https://github.com/KaiyangZhou/CoOp) [[digest]](https://github.com/Lu-Tan/1919Causality-Group/blob/main/OTDD.md)
+    IJCV 2022 [[paper]](https://arxiv.org/abs/2203.05557) [[code]](https://github.com/KaiyangZhou/CoOp) [[digest]](https://github.com/Lu-Tan/1919Causality-Group/blob/main/Learning%20to%20Prompt%20for%20Vision-Language%20Models.md)
     
 - **[CoCoOp] Conditional Prompt Learning for Vision-Language Models.**
 
