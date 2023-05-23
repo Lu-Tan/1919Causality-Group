@@ -26,3 +26,6 @@
     Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.
     
     CVPR 2022 [[paper]](https://link.springer.com/article/10.1007/s11263-022-01653-1) [[code]](https://github.com/KaiyangZhou/CoOp) [[digest]](https://github.com/Lu-Tan/1919Causality-Group/blob/main/Conditional%20Prompt%20Learning%20for%20Vision-Language%20Models.md)
+
+### Domain Adaptation from Causality Perspective
+[Paper list](https://github.com/Lu-Tan/1919Causality-Group/blob/main/domain_adaptation.md)

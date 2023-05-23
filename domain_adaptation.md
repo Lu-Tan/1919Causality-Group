@@ -1,0 +1,4 @@
+## Pretty basic ideas about domain adaptation: 
+- [Domain Adaptation under Target and Conditional Shift](http://proceedings.mlr.press/v28/zhang13d.pdf) ICML 2013, basic ideas about domain adaptation
+- [Robustly Disentangled Causal Mechanisms: Validating Deep Representations for Interventional Robustness](https://arxiv.org/pdf/1811.00007.pdf) ICML 2019, an disentanglement mechanism within the definition of Disentangled Causal Process.
+- [Partial disentanglement for domain adaptation](https://proceedings.mlr.press/v162/kong22a/kong22a.pdf) ICML 2022, useful identifiability proofs, a very recent one
